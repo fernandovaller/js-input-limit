@@ -28,6 +28,10 @@ $('.inputLimit').keyup(function() {
 });
 ```
 
+> Demo
+
+[js-input-limit](https://js-input-limit.netlify.com/)
+
 > Screenshot
 
 ![js-input-limit](https://raw.githubusercontent.com/fernandovaller/js-input-limit/master/screenshot.png)
